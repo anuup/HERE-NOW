@@ -1,8 +1,31 @@
-*{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+*{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+background-color: teal;}
 
 
 h1{
     display: flex;
     justify-content: center;
+}
+.main{
+
+display: flex;
+align-items: center;
+justify-content: center;
+margin-top: 50px;
+}
+
+.to-input{
+
+background-color: aliceblue;
+height: 40px;
+width: 60vh;
+border-radius: 150px;
+}
+.btn{
+    background-color: greenyellow;
+    color: black;
+    height: 50px;
+    border-radius: 20px;
+    border: azure;
 }
     
